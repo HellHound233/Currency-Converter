@@ -13,7 +13,12 @@ namespace Currency_Converter
     public partial class Form1 : Form
     {
 
-        bool dep = true;
+        //FORMATTING:
+        //nudCurSP = The Numeric Up Down for the current amount of Silver Pieces
+        //nudDepSP = The Numeric Up Down for the depositting Silver Pieces
+        //nudWithSP = The Numeric Up Down for the withdrawing silver pieces
+
+        bool dep = true; //depositing coin
 
         public Form1()
         {
