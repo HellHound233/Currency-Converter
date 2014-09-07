@@ -1,0 +1,8 @@
+S:\RollPlay\My Own\Resources\Currency Convert\Currency Converter\Currency Converter\bin\Release\Currency Converter.exe.config
+S:\RollPlay\My Own\Resources\Currency Convert\Currency Converter\Currency Converter\bin\Release\Currency Converter.exe
+S:\RollPlay\My Own\Resources\Currency Convert\Currency Converter\Currency Converter\bin\Release\Currency Converter.pdb
+S:\RollPlay\My Own\Resources\Currency Convert\Currency Converter\Currency Converter\obj\Release\Currency_Converter.Form1.resources
+S:\RollPlay\My Own\Resources\Currency Convert\Currency Converter\Currency Converter\obj\Release\Currency_Converter.Properties.Resources.resources
+S:\RollPlay\My Own\Resources\Currency Convert\Currency Converter\Currency Converter\obj\Release\Currency Converter.csproj.GenerateResource.Cache
+S:\RollPlay\My Own\Resources\Currency Convert\Currency Converter\Currency Converter\obj\Release\Currency Converter.exe
+S:\RollPlay\My Own\Resources\Currency Convert\Currency Converter\Currency Converter\obj\Release\Currency Converter.pdb
